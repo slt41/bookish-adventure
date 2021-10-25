@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-<b>Sarah Turner</b> is a PhD Researcher in the [School of Computing](https://www.cs.kent.ac.uk/){:target="\_blank"} at the University of Kent, and a member of the Kent Interdisciplinary Research Centre in Cyber Security [KirCCS](https://cyber.kent.ac.uk/){:target="\_blank"}. Her research focuses on how families address the cyber security issues arising from using Internet of Things devices in the home.
+<b>Sarah Turner</b> is a PhD Researcher in the [School of Computing](https://www.cs.kent.ac.uk/){:target="\_blank"} at the University of Kent, and a member of the Institute for Cyber Security for Society [iCSS](https://cyber.kent.ac.uk/){:target="\_blank"}. Her research focuses on how families address the cyber security issues arising from using Internet of Things devices in the home.
 
 Prior to this, Sarah received an MPA in Digital Technology and Public Policy from UCL's [Department of Science, Technology, Engineering and Public Policy](https://www.ucl.ac.uk/steapp/){:target="\_blank"}, and spent some time working as a Research Associate at [PETRAS](https://petras-iot.org/){:target="\_blank"}, the National Centre of Excellence for IoT Systems Cybersecurity.
 
